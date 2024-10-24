@@ -1,1 +1,1 @@
-# WEEK_6_EI_DECA_PRATAMA.ipynb
+# WEEK_6_Ei_Deca_Pratama.ipynb
